@@ -1,0 +1,33 @@
+_repo: Handbook-of-the-Minneapolis-Institute-of-Arts_35269
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Breck, Joseph
+    birthdate: 1885
+    deathdate: 1933
+    gutenberg_agent_id: '37566'
+    url: http://www.gutenberg.org/2009/agents/37566
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Breck_%28curator%29
+  - agent_name: Wehle, Harry B. (Harry Brandeis)
+    birthdate: 1887
+    deathdate: 1969
+    gutenberg_agent_id: '37567'
+    url: http://www.gutenberg.org/2009/agents/37567
+description: ''
+gutenberg_issued: '2011-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35269'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Art -- Minnesota -- Minneapolis'
+- !lcc 'N'
+- !lcsh 'Sculpture -- Minnesota -- Minneapolis'
+title: "Handbook of the Minneapolis Institute of Arts\r\nWith 143 Illustrations"
+url: http://www.gutenberg.org/ebooks/35269
